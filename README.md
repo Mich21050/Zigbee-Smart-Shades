@@ -27,7 +27,7 @@ I built the original circuit on a breadboard using an Arduino Nano due to its bu
 It's important to note that you have to connect the ULN2003 to a external PSU and not the Nano's 5V out since it won't be able to supply enough current. I just bridged my Vin connector to a Vout one and supplied the Nano using the same 5V supply.
 
 Circuit sketch:
-![pic2](https://github.com/Mich21050/Zigbee-Smart-Shades/blob/master/Pictures/pic2.png)
+![pic3](https://github.com/Mich21050/Zigbee-Smart-Shades/blob/master/Pictures/pic3.png)
 
 
 Breadboard circuit:
