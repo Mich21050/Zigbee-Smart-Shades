@@ -20,6 +20,7 @@ So the underlying concept is, just powering the Ikea Tradfri Module using a 3.3V
 4) Now you can remove the Tradfri Moduke by just heating up the bottom contacts by adding some new solder and then carefully pulling the module out of its slot.
 
 5) Now solder some pin headers to the the pins shown in the photo below. (Pinout Credits to @basilfx)
+![pinout](https://github.com/Mich21050/Zigbee-Smart-Shades/blob/master/Pictures/pinout.png)
 
 # Creating the Control Circuit
 *I'm currently working on a custom pcb using the same Atmega328p microcontroller and custom tradfri holder.*
