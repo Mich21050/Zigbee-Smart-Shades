@@ -23,4 +23,4 @@ So the underlying concept is, just powering the Ikea Tradfri Module using a 3.3V
 
 # Creating the Control Circuit
 *I'm currently working on a custom pcb using the same Atmega328p microcontroller and custom tradfri holder.*
-I built the original circuit on a breadboard using an Arduino Nano due to 
+I built the original circuit on a breadboard using an Arduino Nano due to its built in 3V3 regulator. I also used an external ULN2003 module since those came with my motors and where pretty cheap all around. I also decoupled the 3V3 supply for the module using a 68uF cap since I salvaged it for free from the Tradfri PSU.
