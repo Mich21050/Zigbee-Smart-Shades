@@ -21,5 +21,6 @@ So the underlying concept is, just powering the Ikea Tradfri Module using a 3.3V
 
 5) Now solder some pin headers to the the pins shown in the photo below. (Pinout Credits to @basilfx)
 
-# Creating the Controll Circuit
+# Creating the Control Circuit
 *I'm currently working on a custom pcb using the same Atmega328p microcontroller and custom tradfri holder.*
+I built the original circuit on a breadboard using an Arduino Nano due to 
