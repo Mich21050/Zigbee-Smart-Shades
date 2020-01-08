@@ -25,3 +25,5 @@ So the underlying concept is, just powering the Ikea Tradfri Module using a 3.3V
 *I'm currently working on a custom pcb using the same Atmega328p microcontroller and custom tradfri holder.*
 I built the original circuit on a breadboard using an Arduino Nano due to its built in 3V3 regulator. I also used an external ULN2003 module since those came with my motors and where pretty cheap all around. I also decoupled the 3V3 supply for the module using a 68uF capactior since I salvaged it for free from the Tradfri PSU. Below you can find a small drawn up circuit and my breadboard circuit. I'm using some JST-XH soldered onto my driver and my pcb.
 It's important to note that you have to connect the ULN2003 to a external PSU and not the Nano's 5V out since it won't be able to supply enough current. I just bridged my Vin connector to a Vout one and supplied the Nano using the same 5V supply.
+![pic1](https://github.com/Mich21050/Zigbee-Smart-Shades/blob/master/Pictures/pic1.png)
+
